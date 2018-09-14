@@ -4,3 +4,5 @@ c/.gitignore.swp
 python/p97/__pycache__
 python/.idea/
 python/.pytest_cache/
+go/.idea/
+
