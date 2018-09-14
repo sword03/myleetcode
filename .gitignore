@@ -5,4 +5,7 @@ python/p97/__pycache__
 python/.idea/
 python/.pytest_cache/
 go/.idea/
-
+java/.idea/
+java/out/
+cplusplus/cmake-build-debug/
+cplusplus/.idea/
